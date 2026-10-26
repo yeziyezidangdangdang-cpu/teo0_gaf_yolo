@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+
+# Large local data (raw may stay; intermediate data lives in D:\TEP_2)
+gaf_yolo/data/gaf_rgb/
+gaf_yolo/data/gaf_rgb_mcc5/
+gaf_yolo/data/processed/
+gaf_yolo/data/processed_mcc5/
+gaf_yolo/data/images*/
+gaf_yolo/data/spectrograms*/
+gaf_yolo/yolo_datasets/
+gaf_yolo/yolo_datasets_mcc5/
+gaf_yolo/yolo_datasets_v2*/
+
+# YOLO weights (use Git LFS if needed)
+YOLOv8/runs/**/weights/*.pt
+YOLOv8/runs/**/weights/*.pth
+YOLOv8/*.pt
+
+# Word lock
+~$*.docx
+
+# OS
+Thumbs.db
+.DS_Store

@@ -1,0 +1,4 @@
+﻿划分方式,GASF(%),GADF(%),双分支简单平均(%),N_test,目录
+"whole_file (main, B)",99.78,98.78,99.33,900,mcc5_cls_b
+temporal (C),86.42,82.68,87.20,508,mcc5_cls_c
+random shuffle (D),97.78,96.33,98.67,900,mcc5_cls_random
