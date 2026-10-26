@@ -26,3 +26,6 @@ YOLOv8/*.pt
 # OS
 Thumbs.db
 .DS_Store
+gaf_yolo/.cursor/debug.log
+gaf_yolo/data/raw/HUST-bearing-dataset/Description file（描述文件）/F2-bearings.png
+/gaf_yolo/data/raw

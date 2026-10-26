@@ -1,0 +1,6 @@
+This directory was intentionally omitted in the mirror copy.
+Reason: large generated image / YOLO dataset files.
+
+To regenerate:
+  1. Run gaf_yolo/src pipeline (0.x -> 1.x -> 2.x) after processed data is ready.
+  2. See REPRO_README.md at TEP_2_repro root.
